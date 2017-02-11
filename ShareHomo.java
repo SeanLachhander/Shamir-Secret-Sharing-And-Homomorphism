@@ -1,8 +1,3 @@
-/* 
- *  Files: Share.java
- *  Courtesy: Robert Bisewski
- */
- 
  //the necessary imports
 import java.awt.*;
 import java.awt.event.*;
