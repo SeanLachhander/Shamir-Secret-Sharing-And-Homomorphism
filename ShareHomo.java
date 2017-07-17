@@ -1,4 +1,6 @@
- //the necessary imports
+// Cryptography Assignment -- Shamir Secret Sharing and Homomorphism Implementation on GUI
+
+//the necessary imports
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.*;
